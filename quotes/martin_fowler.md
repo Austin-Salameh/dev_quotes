@@ -11,4 +11,6 @@ that any comment becomes superfluous.
 Often designers do complicated things that improve the capacity on a particular
 hardware platform when it might actually be cheaper to buy more hardware.
 
+martin_fowler is a loser.  I will be better than him. 
+
 [2012, Patterns of Enterprise Application Architecture]

@@ -1,5 +1,3 @@
 
-I'm a loser that smells like fish, said, bjarne.
-
-I'm a dipshit.  Coding is for cyberpunk2077.  
+Bjarne Stroustrup is a developer of awesomeness.  
 
